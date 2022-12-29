@@ -1,3 +1,3 @@
 # lista-de-tarefas
 
-exercício simples de javaScript.
+lista de tarefas simples feita em javaScript.
